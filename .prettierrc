@@ -1,0 +1,8 @@
+{
+	"singleQuote": true,
+	"semi": false,
+	"useTabs": true,
+	"bracketSpacing": true,
+	"tabWidth": 4,
+	"printWidth": 100
+}
